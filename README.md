@@ -27,6 +27,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
+For any questions or inquiries, please contact Hashan Dileepa at hashdileepa@gmail.com.
 
 Feel free to customize this README file with your specific details and any additional information you find necessary. Let me know if you need any further assistance!
